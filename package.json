@@ -1,0 +1,19 @@
+{
+  "name": "caldear",
+  "version": "1.0.0",
+  "description": "\"Administración de negocio de calderas\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamaco2/caldear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamaco2/caldear/issues"
+  },
+  "homepage": "https://github.com/pamaco2/caldear#readme"
+}
